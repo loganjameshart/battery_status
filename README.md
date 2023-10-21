@@ -29,4 +29,3 @@ This program is intended for Linux systems with a battery that exposes charge in
 ## License
 
 This program is provided under the [MIT License](LICENSE).
-```
